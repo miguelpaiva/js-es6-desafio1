@@ -1,0 +1,12 @@
+{
+  "name": "es6-desafio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/ex2.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
